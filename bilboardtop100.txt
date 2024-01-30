@@ -1,5 +1,8 @@
 Tasdasdasdsds 100 is a chart that ranks the best-performing songs in the United States. 
-Its data is compiled by Luminate Data and published by American music magazine Billboard. The chart is based on each song's weekly physical and digital sales collectively, the amount of airplay impressions it receives on American radio stations, and its audio and video streams on online digital music platforms.
+Its data is compiled by Luminate Data and published by American music magazine Billboard. 
+The chart is based on each song's weekly physical and digital sales 
+collectively, the amount of airplay impressions it receives on American radio stations, 
+and its audio and video streams on online digital music platforms.
 
 "Last Night" by American country singer Morgan Wallen is the year's longest-running number-one song on the Hot 100 in 2023, 
 having spent sixteen weeks at the top spot;[1] it subsequently topped the Billboard Year-End Hot 100.
